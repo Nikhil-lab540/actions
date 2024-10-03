@@ -1,4 +1,4 @@
-from ..src.app import fun
+from src.app import fun
 
 
 def test_fun():
